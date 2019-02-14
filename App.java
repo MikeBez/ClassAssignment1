@@ -25,5 +25,6 @@ public class App
 
         //output
         System.out.println("The area is: " + area);
+        System.out.println("Woodstock will be the next area !");//Taylor's proposed this changes
     }
 }
